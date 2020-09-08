@@ -25,7 +25,7 @@ class MyJoystick(Joystick):
 
 
         self.axis_names = {
-            0x1 : 'steering',
+            0x0 : 'steering',
             0x4 : 'throttle',
         }
 
